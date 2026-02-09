@@ -366,8 +366,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### ⭐ Star this repo if you find it helpful!
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/aarambhdevhub)
+
 Created by **[Darshan Vichhi](https://github.com/aarambh-darshan)** 🦀❤️
 
 *Fork it. Solve it. Master it. No AI allowed!*
 
 </div>
+
